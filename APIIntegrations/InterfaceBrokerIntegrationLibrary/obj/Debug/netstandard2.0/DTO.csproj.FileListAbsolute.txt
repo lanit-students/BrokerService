@@ -6,3 +6,11 @@ D:\DEV\BrokerService\APIIntegrations\InterfaceBrokerIntegrationLibrary\bin\Debug
 D:\DEV\BrokerService\APIIntegrations\InterfaceBrokerIntegrationLibrary\bin\Debug\netstandard2.0\DTO.pdb
 D:\DEV\BrokerService\APIIntegrations\InterfaceBrokerIntegrationLibrary\obj\Debug\netstandard2.0\DTO.dll
 D:\DEV\BrokerService\APIIntegrations\InterfaceBrokerIntegrationLibrary\obj\Debug\netstandard2.0\DTO.pdb
+C:\Dev\Projects\Task\APIIntegrations\InterfaceBrokerIntegrationLibrary\bin\Debug\netstandard2.0\DTO.deps.json
+C:\Dev\Projects\Task\APIIntegrations\InterfaceBrokerIntegrationLibrary\bin\Debug\netstandard2.0\DTO.dll
+C:\Dev\Projects\Task\APIIntegrations\InterfaceBrokerIntegrationLibrary\bin\Debug\netstandard2.0\DTO.pdb
+C:\Dev\Projects\Task\APIIntegrations\InterfaceBrokerIntegrationLibrary\obj\Debug\netstandard2.0\DTO.AssemblyInfoInputs.cache
+C:\Dev\Projects\Task\APIIntegrations\InterfaceBrokerIntegrationLibrary\obj\Debug\netstandard2.0\DTO.AssemblyInfo.cs
+C:\Dev\Projects\Task\APIIntegrations\InterfaceBrokerIntegrationLibrary\obj\Debug\netstandard2.0\DTO.dll
+C:\Dev\Projects\Task\APIIntegrations\InterfaceBrokerIntegrationLibrary\obj\Debug\netstandard2.0\DTO.pdb
+C:\Dev\Projects\Task\APIIntegrations\InterfaceBrokerIntegrationLibrary\obj\Debug\netstandard2.0\DTO.csprojAssemblyReference.cache

@@ -12,9 +12,9 @@ namespace BrokerService.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class WeatherForecastController : Controller
     {
-        private static readonly string[] Summaries = new[]
+      /*  private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
@@ -24,13 +24,23 @@ namespace BrokerService.Controllers
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
             _logger = logger;
-        }
+        }*/
 
-        [HttpGet]
-        public IEnumerable<Course> Get([FromQuery] BankTypes provider)
+       [Route("Get")]
+        public IEnumerable<Course> Get(BankTypes provider)
         {
             IBroker c = BrokerFactory.CreateBroker(provider);
-            return c.A();
+             return c.A();
+            
+        }
+       [Route("GetMax")]
+       public int Sosi(int number1,int number2)
+        {
+            if (number1 > number2)
+            {
+                return number1;
+            }
+            return number2;
         }
     }
 }
