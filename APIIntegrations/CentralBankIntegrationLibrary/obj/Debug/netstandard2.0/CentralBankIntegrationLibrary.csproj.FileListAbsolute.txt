@@ -1,0 +1,11 @@
+D:\DEV\BrokerService\CentralBankIntegrationLibrary\bin\Debug\netstandard2.0\CentralBankIntegrationLibrary.deps.json
+D:\DEV\BrokerService\CentralBankIntegrationLibrary\bin\Debug\netstandard2.0\CentralBankIntegrationLibrary.dll
+D:\DEV\BrokerService\CentralBankIntegrationLibrary\bin\Debug\netstandard2.0\CentralBankIntegrationLibrary.pdb
+D:\DEV\BrokerService\CentralBankIntegrationLibrary\obj\Debug\netstandard2.0\CentralBankIntegrationLibrary.csprojAssemblyReference.cache
+D:\DEV\BrokerService\CentralBankIntegrationLibrary\obj\Debug\netstandard2.0\CentralBankIntegrationLibrary.AssemblyInfoInputs.cache
+D:\DEV\BrokerService\CentralBankIntegrationLibrary\obj\Debug\netstandard2.0\CentralBankIntegrationLibrary.AssemblyInfo.cs
+D:\DEV\BrokerService\CentralBankIntegrationLibrary\obj\Debug\netstandard2.0\CentralBankIntegrationLibrary.dll
+D:\DEV\BrokerService\CentralBankIntegrationLibrary\obj\Debug\netstandard2.0\CentralBankIntegrationLibrary.pdb
+D:\DEV\BrokerService\CentralBankIntegrationLibrary\bin\Debug\netstandard2.0\DTO.dll
+D:\DEV\BrokerService\CentralBankIntegrationLibrary\bin\Debug\netstandard2.0\DTO.pdb
+D:\DEV\BrokerService\CentralBankIntegrationLibrary\obj\Debug\netstandard2.0\CentralBankIntegrationLibrary.csproj.CopyComplete

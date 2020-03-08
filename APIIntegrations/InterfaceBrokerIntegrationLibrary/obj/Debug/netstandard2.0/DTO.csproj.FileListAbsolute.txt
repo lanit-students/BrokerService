@@ -1,0 +1,8 @@
+D:\DEV\BrokerService\APIIntegrations\InterfaceBrokerIntegrationLibrary\obj\Debug\netstandard2.0\DTO.csprojAssemblyReference.cache
+D:\DEV\BrokerService\APIIntegrations\InterfaceBrokerIntegrationLibrary\obj\Debug\netstandard2.0\DTO.AssemblyInfoInputs.cache
+D:\DEV\BrokerService\APIIntegrations\InterfaceBrokerIntegrationLibrary\obj\Debug\netstandard2.0\DTO.AssemblyInfo.cs
+D:\DEV\BrokerService\APIIntegrations\InterfaceBrokerIntegrationLibrary\bin\Debug\netstandard2.0\DTO.deps.json
+D:\DEV\BrokerService\APIIntegrations\InterfaceBrokerIntegrationLibrary\bin\Debug\netstandard2.0\DTO.dll
+D:\DEV\BrokerService\APIIntegrations\InterfaceBrokerIntegrationLibrary\bin\Debug\netstandard2.0\DTO.pdb
+D:\DEV\BrokerService\APIIntegrations\InterfaceBrokerIntegrationLibrary\obj\Debug\netstandard2.0\DTO.dll
+D:\DEV\BrokerService\APIIntegrations\InterfaceBrokerIntegrationLibrary\obj\Debug\netstandard2.0\DTO.pdb

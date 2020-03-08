@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\APIIntegrations\InterfaceBrokerIntegrationLibrary\DTO.csproj" />
+    <ProjectReference Include="..\CentralBankIntegrationLibrary\CentralBankIntegrationLibrary.csproj" />
+    <ProjectReference Include="..\TinkoffIntegrationLibrary\TinkoffIntegrationLibrary.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CentralBankIntegrationLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "DTO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CentralBankIntegrationLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CentralBankIntegrationLibrary.dll": {}
+        }
+      },
+      "DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTO.dll": {}
+        }
+      },
+      "TinkoffIntegrationLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "DTO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TinkoffIntegrationLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TinkoffIntegrationLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CentralBankIntegrationLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CentralBankIntegrationLibrary/CentralBankIntegrationLibrary.csproj",
+      "msbuildProject": "../CentralBankIntegrationLibrary/CentralBankIntegrationLibrary.csproj"
+    },
+    "DTO/1.0.0": {
+      "type": "project",
+      "path": "../APIIntegrations/InterfaceBrokerIntegrationLibrary/DTO.csproj",
+      "msbuildProject": "../APIIntegrations/InterfaceBrokerIntegrationLibrary/DTO.csproj"
+    },
+    "TinkoffIntegrationLibrary/1.0.0": {
+      "type": "project",
+      "path": "../TinkoffIntegrationLibrary/TinkoffIntegrationLibrary.csproj",
+      "msbuildProject": "../TinkoffIntegrationLibrary/TinkoffIntegrationLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CentralBankIntegrationLibrary >= 1.0.0",
+      "DTO >= 1.0.0",
+      "TinkoffIntegrationLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\DEV\\BrokerService\\BrokerService\\BrokerService.csproj",
+      "projectName": "BrokerService",
+      "projectPath": "D:\\DEV\\BrokerService\\BrokerService\\BrokerService.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\DEV\\BrokerService\\BrokerService\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\DEV\\BrokerService\\APIIntegrations\\InterfaceBrokerIntegrationLibrary\\DTO.csproj": {
+              "projectPath": "D:\\DEV\\BrokerService\\APIIntegrations\\InterfaceBrokerIntegrationLibrary\\DTO.csproj"
+            },
+            "D:\\DEV\\BrokerService\\CentralBankIntegrationLibrary\\CentralBankIntegrationLibrary.csproj": {
+              "projectPath": "D:\\DEV\\BrokerService\\CentralBankIntegrationLibrary\\CentralBankIntegrationLibrary.csproj"
+            },
+            "D:\\DEV\\BrokerService\\TinkoffIntegrationLibrary\\TinkoffIntegrationLibrary.csproj": {
+              "projectPath": "D:\\DEV\\BrokerService\\TinkoffIntegrationLibrary\\TinkoffIntegrationLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,2 @@
+D:\DEV\BrokerService\APIIntegrations\InterfaceBrokerIntegrationLibrary\obj\Debug\netstandard2.0\InterfaceBrokerIntegrationLibrary.AssemblyInfoInputs.cache
+D:\DEV\BrokerService\APIIntegrations\InterfaceBrokerIntegrationLibrary\obj\Debug\netstandard2.0\InterfaceBrokerIntegrationLibrary.AssemblyInfo.cs

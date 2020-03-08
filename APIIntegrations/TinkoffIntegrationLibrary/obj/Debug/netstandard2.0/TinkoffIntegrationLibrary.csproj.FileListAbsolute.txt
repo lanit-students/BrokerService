@@ -1,0 +1,11 @@
+D:\DEV\BrokerService\TinkoffIntegrationLibrary\bin\Debug\netstandard2.0\TinkoffIntegrationLibrary.deps.json
+D:\DEV\BrokerService\TinkoffIntegrationLibrary\bin\Debug\netstandard2.0\TinkoffIntegrationLibrary.dll
+D:\DEV\BrokerService\TinkoffIntegrationLibrary\bin\Debug\netstandard2.0\TinkoffIntegrationLibrary.pdb
+D:\DEV\BrokerService\TinkoffIntegrationLibrary\bin\Debug\netstandard2.0\DTO.dll
+D:\DEV\BrokerService\TinkoffIntegrationLibrary\bin\Debug\netstandard2.0\DTO.pdb
+D:\DEV\BrokerService\TinkoffIntegrationLibrary\obj\Debug\netstandard2.0\TinkoffIntegrationLibrary.csprojAssemblyReference.cache
+D:\DEV\BrokerService\TinkoffIntegrationLibrary\obj\Debug\netstandard2.0\TinkoffIntegrationLibrary.AssemblyInfoInputs.cache
+D:\DEV\BrokerService\TinkoffIntegrationLibrary\obj\Debug\netstandard2.0\TinkoffIntegrationLibrary.AssemblyInfo.cs
+D:\DEV\BrokerService\TinkoffIntegrationLibrary\obj\Debug\netstandard2.0\TinkoffIntegrationLibrary.csproj.CopyComplete
+D:\DEV\BrokerService\TinkoffIntegrationLibrary\obj\Debug\netstandard2.0\TinkoffIntegrationLibrary.dll
+D:\DEV\BrokerService\TinkoffIntegrationLibrary\obj\Debug\netstandard2.0\TinkoffIntegrationLibrary.pdb
